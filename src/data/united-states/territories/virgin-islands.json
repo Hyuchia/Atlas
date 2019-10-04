@@ -1,0 +1,13 @@
+{
+    "name": "Virgin Islands",
+    "abbreviation": "VI",
+	"type": "Unincorporated and Organized Territory",
+	"capital": "Charlotte Amalie",
+    "cities": [
+        "Anna's Retreat",
+        "Charlotte Amalie",
+        "Christiansted",
+        "Cruz Bay",
+        "Frederiksted"
+    ]
+}

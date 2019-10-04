@@ -1,0 +1,11 @@
+{
+    "name": "Northern Mariana Islands",
+    "abbreviation": "MP",
+	"type": "Unincorporated and Organized Territory",
+	"capital": "Saipan",
+    "cities": [
+		"Rota",
+		"Saipan",
+		"Tinian"
+	]
+}

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+
+		<title>Atlas</title>
+
+		<meta charset="UTF-8">
+		<script src="./../dist/atlas.min.js"></script>
+		<style>
+			body {
+				font-weight: lighter;
+				font-family: 'Open Sans', sans-serif;
+				color: #424242;
+				background: #424242;
+			}
+
+			h1 {
+				text-align: center;
+				color: #fff;
+			}
+
+			h2 {
+				display: inline-block;
+			}
+
+			section {
+				padding: 1em;
+			}
+
+			details {
+				padding: 0.5em 2em;
+				background: #fafafa;
+			}
+
+			summary {
+				cursor: pointer;
+			}
+
+			ul {
+				border: 1px solid rgba(0, 0, 0, 0.2);
+				background: #fff;
+				padding: 1rem 2rem;
+			}
+
+			body > details {
+				margin: 1rem 0;
+			}
+
+			/** Place here all Media Queries and it's styles.**/
+
+			/** Default Style. Don't change. (320px) **/
+			@media screen and  (max-width: 20em) {}
+
+			/** Extra Small Devices, Phones (480px) **/
+			@media screen and (min-width : 30em) {
+
+			}
+
+			/** Medium Screens, Tablets (601px) **/
+			@media screen and (min-width: 37.56255em) {
+				ul {
+					column-count: 2;
+				}
+			}
+
+			/** Medium Devices, Desktops (992px)**/
+			@media screen and (min-width: 62em) {
+				ul {
+					column-count: 3;
+				}
+			}
+
+			/** HD Screen, Large Devices, Wide Screens (1200px) **/
+			@media screen and (min-width: 75em) {
+				ul {
+					column-count: 4;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<h1>Atlas</h1>
+
+		<div >
+
+		</div>
+		<script>
+			const countries = Atlas.default.countries;
+			for (const country of countries) {
+				const section = document.createElement ('section');
+				section.innerHTML = `
+					<details>
+							<summary><h2>${country.name}</h2></summary>
+						${ Object.values (country.territories).map ((territory) => {
+							return `
+								<details>
+									<summary>${territory.name}</summary>
+									<p><b>Abbreviation:</b> ${territory.abbreviation}</p>
+									<p><b>Type:</b> ${territory.type}</p>
+									<p><b>Capital:</b> ${territory.capital}</p>
+									<p><b>Cities:</b></p>
+									<ul>
+										${territory.cities.map (c => `<li>${c}</li>`).join ('')}
+									</ul>
+								</details>
+							`;
+						}).join ('')}
+					</details>
+				`;
+				document.querySelector ('div').append (section);
+			}
+		</script>
+	</body>
+</html>

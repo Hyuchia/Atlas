@@ -1,0 +1,27 @@
+{
+    "name": "Guam",
+    "abbreviation":"GU",
+	"type": "Unincorporated and Organized Territory",
+	"capital": "Hagåtña",
+    "cities": [
+        "Agana Heights",
+        "Agat",
+        "Asan-Maina",
+        "Barrigada",
+        "Chalan-Pago-Ordot",
+        "Dededo",
+        "Hagåtña",
+        "Inarajan",
+        "Mangilao",
+        "Merizo",
+        "Mongmong-Toto-Maite",
+        "Piti",
+        "Santa Rita",
+        "Sinajana",
+        "Talofofo",
+        "Tamuning (including Tumon)",
+        "Umatac",
+        "Yigo",
+        "Yona"
+	]
+}

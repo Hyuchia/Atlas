@@ -1,0 +1,9 @@
+{
+    "name": "District of Columbia",
+    "abbreviation": "DC",
+	"type": "Federal District",
+	"capital": "Washington",
+    "cities": [
+        "Washington"
+    ]
+}
