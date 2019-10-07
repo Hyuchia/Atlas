@@ -84,15 +84,22 @@ export const nebraska = new Territory (nebraska_data);
 import * as montana_data from './montana.json';
 export const montana = new Territory (montana_data);
 
+/**
+ * CDPs have not been included in Missouri's data
+ */
 import * as missouri_data from './missouri.json';
 export const missouri = new Territory (missouri_data);
 
 import * as mississippi_data from './mississippi.json';
 export const mississippi = new Territory (mississippi_data);
 
+
 import * as minnesota_data from './minnesota.json';
 export const minnesota = new Territory (minnesota_data);
 
+/**
+ * Townships were not included in Michigan's data
+ */
 import * as michigan_data from './michigan.json';
 export const michigan = new Territory (michigan_data);
 
@@ -126,6 +133,9 @@ export const illinois = new Territory (illinois_data);
 import * as idaho_data from './idaho.json';
 export const idaho = new Territory (idaho_data);
 
+/**
+ * CDPs have been included in Hawaii's data
+ */
 import * as hawaii_data from './hawaii.json';
 export const hawaii = new Territory (hawaii_data);
 
