@@ -2,10 +2,15 @@ import Territory from './Territory';
 
 export default class Country {
 
-	constructor ({ name, abbreviation, territories=[] }) {
+	constructor ({ name, official_name = '', capital = '', flag = '', abbreviation = '', territories = [] }) {
 		this.name = name;
+		this.official_name = official_name;
+		this.capital = capital;
+		this.flag = flag;
+
 		this.abbreviation = abbreviation;
 		this.territories = territories;
+
 	}
 
 	addTerritory (...props) {

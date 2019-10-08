@@ -9,7 +9,10 @@ import territories from './territories';
  */
 const mexico = new Country ({
 	name: 'Mexico',
+	official_name: 'United Mexican States',
+	capital: 'Mexico City',
 	abbreviation: 'MX',
+	flag: '🇲🇽',
 	territories: territories
 });
 

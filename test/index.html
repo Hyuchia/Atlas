@@ -91,7 +91,10 @@
 				const section = document.createElement ('section');
 				section.innerHTML = `
 					<details>
-							<summary><h2>${country.name}</h2></summary>
+							<summary><h2>${country.flag} ${country.name}</h2></summary>
+							<p><b>Official Name:</b> ${country.official_name}</p>
+							<p><b>Abbreviation:</b> ${country.abbreviation}</p>
+							<p><b>Capital:</b> ${country.capital}</p>
 						${ Object.values (country.territories).map ((territory) => {
 							return `
 								<details>
