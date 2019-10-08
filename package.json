@@ -35,6 +35,8 @@
 	"package.json",
 	"yarn.lock",
     "src/*",
-    "dist/*"
+	"dist/*",
+	"LICENSE.md",
+	"README.md"
   ]
 }
