@@ -62,12 +62,14 @@ const atlas = Atlas.default;
 
 #### Atlas
 **Static Properties**
+
 | Name | Type | Description |
 | ---- | ---- | ----------- |
 | `countries` | `Array<Country>` | List of countries available on the Atlas |
 
 #### Country
 **Instance Properties**
+
 | Name | Type | Description |
 | ---- | ---- | ----------- |
 | `name` | `Array<Country>` | Country's name commonly used |
@@ -80,6 +82,7 @@ const atlas = Atlas.default;
 
 #### Territory
 **Instance Properties**
+
 | Name | Type | Description |
 | ---- | ---- | ----------- |
 | `name` | `string` | Territory's name |
