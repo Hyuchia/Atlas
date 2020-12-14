@@ -13,6 +13,7 @@ const laos = new Country ({
 	abbreviation: 'LA',
 	flag: '🇱🇦',
 	territories: [],
+	timezones: [],
 });
 
 export default laos;

@@ -13,6 +13,7 @@ const nauru = new Country ({
 	abbreviation: 'NR',
 	flag: '🇳🇷',
 	territories: [],
+	timezones: [],
 });
 
 export default nauru;

@@ -13,6 +13,7 @@ const new_zealand = new Country ({
 	abbreviation: 'NZ',
 	flag: '🇳🇿',
 	territories: [],
+	timezones: [],
 });
 
 export default new_zealand;

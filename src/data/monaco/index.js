@@ -13,6 +13,7 @@ const monaco = new Country ({
 	abbreviation: 'MC',
 	flag: '🇲🇨',
 	territories: [],
+	timezones: [],
 });
 
 export default monaco;

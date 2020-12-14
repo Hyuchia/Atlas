@@ -13,6 +13,7 @@ const saint_vincent_and_the_grenadines = new Country ({
 	abbreviation: 'VC',
 	flag: '🇻🇨',
 	territories: [],
+	timezones: [],
 });
 
 export default saint_vincent_and_the_grenadines;

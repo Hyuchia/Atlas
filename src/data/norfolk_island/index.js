@@ -13,6 +13,7 @@ const norfolk_island = new Country ({
 	abbreviation: 'NF',
 	flag: '🇳🇫',
 	territories: [],
+	timezones: [],
 });
 
 export default norfolk_island;

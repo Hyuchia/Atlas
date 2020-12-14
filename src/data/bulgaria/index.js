@@ -13,6 +13,7 @@ const bulgaria = new Country ({
 	abbreviation: 'BG',
 	flag: '🇧🇬',
 	territories: [],
+	timezones: [],
 });
 
 export default bulgaria;

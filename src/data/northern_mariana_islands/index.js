@@ -13,6 +13,7 @@ const northern_mariana_islands = new Country ({
 	abbreviation: 'MP',
 	flag: '🇲🇵',
 	territories: [],
+	timezones: [],
 });
 
 export default northern_mariana_islands;

@@ -13,6 +13,7 @@ const timor_leste = new Country ({
 	abbreviation: 'TL',
 	flag: '🇹🇱',
 	territories: [],
+	timezones: [],
 });
 
 export default timor_leste;

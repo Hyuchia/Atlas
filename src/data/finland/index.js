@@ -13,6 +13,7 @@ const finland = new Country ({
 	abbreviation: 'FI',
 	flag: '🇫🇮',
 	territories: [],
+	timezones: [],
 });
 
 export default finland;

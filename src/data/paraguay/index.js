@@ -13,6 +13,7 @@ const paraguay = new Country ({
 	abbreviation: 'PY',
 	flag: '🇵🇾',
 	territories: [],
+	timezones: [],
 });
 
 export default paraguay;

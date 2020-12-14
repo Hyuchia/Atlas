@@ -13,6 +13,7 @@ const faroe_islands = new Country ({
 	abbreviation: 'FO',
 	flag: '🇫🇴',
 	territories: [],
+	timezones: [],
 });
 
 export default faroe_islands;

@@ -13,6 +13,7 @@ const latvia = new Country ({
 	abbreviation: 'LV',
 	flag: '🇱🇻',
 	territories: [],
+	timezones: [],
 });
 
 export default latvia;

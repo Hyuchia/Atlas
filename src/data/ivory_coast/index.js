@@ -13,6 +13,7 @@ const ivory_coast = new Country ({
 	abbreviation: 'CI',
 	flag: '🇨🇮',
 	territories: [],
+	timezones: [],
 });
 
 export default ivory_coast;

@@ -13,6 +13,7 @@ const sweden = new Country ({
 	abbreviation: 'SE',
 	flag: '🇸🇪',
 	territories: [],
+	timezones: [],
 });
 
 export default sweden;

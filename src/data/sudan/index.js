@@ -13,6 +13,7 @@ const sudan = new Country ({
 	abbreviation: 'SD',
 	flag: '🇸🇩',
 	territories: [],
+	timezones: [],
 });
 
 export default sudan;

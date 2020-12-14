@@ -13,6 +13,7 @@ const tunisia = new Country ({
 	abbreviation: 'TN',
 	flag: '🇹🇳',
 	territories: [],
+	timezones: [],
 });
 
 export default tunisia;

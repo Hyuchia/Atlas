@@ -13,6 +13,7 @@ const palau = new Country ({
 	abbreviation: 'PW',
 	flag: '🇵🇼',
 	territories: [],
+	timezones: [],
 });
 
 export default palau;

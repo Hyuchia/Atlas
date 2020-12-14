@@ -13,6 +13,7 @@ const sao_tome_and_principe = new Country ({
 	abbreviation: 'ST',
 	flag: '🇸🇹',
 	territories: [],
+	timezones: [],
 });
 
 export default sao_tome_and_principe;

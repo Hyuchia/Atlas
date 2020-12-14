@@ -3,6 +3,14 @@
     "abbreviation": "VI",
 	"type": "Unincorporated and Organized Territory",
 	"capital": "Charlotte Amalie",
+	"timezones": [
+		{
+			"name": "Atlantic Time Zone",
+			"abbreviation": "AST",
+			"iana": "America/St_Thomas",
+			"utc": -4
+		}
+	],
     "cities": [
         "Anna's Retreat",
         "Charlotte Amalie",

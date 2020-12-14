@@ -13,6 +13,7 @@ const romania = new Country ({
 	abbreviation: 'RO',
 	flag: '🇷🇴',
 	territories: [],
+	timezones: [],
 });
 
 export default romania;

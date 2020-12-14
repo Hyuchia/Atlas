@@ -13,6 +13,7 @@ const palestine = new Country ({
 	abbreviation: 'PS',
 	flag: '🇵🇸',
 	territories: [],
+	timezones: [],
 });
 
 export default palestine;

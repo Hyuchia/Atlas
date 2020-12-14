@@ -13,6 +13,7 @@ const sierra_leone = new Country ({
 	abbreviation: 'SL',
 	flag: '🇸🇱',
 	territories: [],
+	timezones: [],
 });
 
 export default sierra_leone;

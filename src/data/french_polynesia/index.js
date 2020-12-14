@@ -13,6 +13,7 @@ const french_polynesia = new Country ({
 	abbreviation: 'PF',
 	flag: '🇵🇫',
 	territories: [],
+	timezones: [],
 });
 
 export default french_polynesia;

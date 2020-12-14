@@ -13,6 +13,7 @@ const equatorial_guinea = new Country ({
 	abbreviation: 'GQ',
 	flag: '🇬🇶',
 	territories: [],
+	timezones: [],
 });
 
 export default equatorial_guinea;

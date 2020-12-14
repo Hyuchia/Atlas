@@ -13,6 +13,7 @@ const botswana = new Country ({
 	abbreviation: 'BW',
 	flag: '🇧🇼',
 	territories: [],
+	timezones: [],
 });
 
 export default botswana;

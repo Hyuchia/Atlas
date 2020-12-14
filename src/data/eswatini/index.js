@@ -13,6 +13,7 @@ const eswatini = new Country ({
 	abbreviation: 'SZ',
 	flag: '🇸🇿',
 	territories: [],
+	timezones: [],
 });
 
 export default eswatini;

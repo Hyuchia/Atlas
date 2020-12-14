@@ -13,6 +13,7 @@ const netherlands = new Country ({
 	abbreviation: 'NL',
 	flag: '🇳🇱',
 	territories: [],
+	timezones: [],
 });
 
 export default netherlands;

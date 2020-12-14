@@ -13,6 +13,7 @@ const aland_islands = new Country ({
 	abbreviation: 'AX',
 	flag: '🇦🇽',
 	territories: [],
+	timezones: [],
 });
 
 export default aland_islands;

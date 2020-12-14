@@ -13,6 +13,7 @@ const el_salvador = new Country ({
 	abbreviation: 'SV',
 	flag: '🇸🇻',
 	territories: [],
+	timezones: [],
 });
 
 export default el_salvador;

@@ -13,6 +13,7 @@ const saint_pierre_and_miquelon = new Country ({
 	abbreviation: 'PM',
 	flag: '🇵🇲',
 	territories: [],
+	timezones: [],
 });
 
 export default saint_pierre_and_miquelon;

@@ -3,6 +3,14 @@
     "abbreviation": "NM",
 	"type": "State",
 	"capital": "Santa Fe",
+	"timezones": [
+		{
+			"name": "Mountain Time Zone",
+			"abbreviation": "MST",
+			"iana": "America/Denver",
+			"utc": -7
+		}
+	],
     "cities": [
         "Alamogordo",
         "Albuquerque",

@@ -13,6 +13,7 @@ const papua_new_guinea = new Country ({
 	abbreviation: 'PG',
 	flag: '🇵🇬',
 	territories: [],
+	timezones: [],
 });
 
 export default papua_new_guinea;

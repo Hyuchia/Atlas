@@ -13,6 +13,7 @@ const norway = new Country ({
 	abbreviation: 'NO',
 	flag: '🇳🇴',
 	territories: [],
+	timezones: [],
 });
 
 export default norway;

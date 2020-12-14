@@ -13,6 +13,7 @@ const japan = new Country ({
 	abbreviation: 'JP',
 	flag: '🇯🇵',
 	territories: [],
+	timezones: [],
 });
 
 export default japan;

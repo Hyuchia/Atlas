@@ -13,6 +13,7 @@ const brazil = new Country ({
 	abbreviation: 'BR',
 	flag: '🇧🇷',
 	territories: [],
+	timezones: [],
 });
 
 export default brazil;

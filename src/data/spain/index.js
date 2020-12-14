@@ -13,6 +13,7 @@ const spain = new Country ({
 	abbreviation: 'ES',
 	flag: '🇪🇸',
 	territories: [],
+	timezones: [],
 });
 
 export default spain;

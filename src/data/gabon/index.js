@@ -13,6 +13,7 @@ const gabon = new Country ({
 	abbreviation: 'GA',
 	flag: '🇬🇦',
 	territories: [],
+	timezones: [],
 });
 
 export default gabon;

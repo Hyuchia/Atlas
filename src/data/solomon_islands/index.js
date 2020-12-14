@@ -13,6 +13,7 @@ const solomon_islands = new Country ({
 	abbreviation: 'SB',
 	flag: '🇸🇧',
 	territories: [],
+	timezones: [],
 });
 
 export default solomon_islands;

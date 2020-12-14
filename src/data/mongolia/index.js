@@ -13,6 +13,7 @@ const mongolia = new Country ({
 	abbreviation: 'MN',
 	flag: '🇲🇳',
 	territories: [],
+	timezones: [],
 });
 
 export default mongolia;

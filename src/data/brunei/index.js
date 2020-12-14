@@ -13,6 +13,7 @@ const brunei = new Country ({
 	abbreviation: 'BN',
 	flag: '🇧🇳',
 	territories: [],
+	timezones: [],
 });
 
 export default brunei;

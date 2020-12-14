@@ -13,6 +13,7 @@ const sint_maarten = new Country ({
 	abbreviation: 'SX',
 	flag: '🇸🇽',
 	territories: [],
+	timezones: [],
 });
 
 export default sint_maarten;

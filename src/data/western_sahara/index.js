@@ -13,6 +13,7 @@ const western_sahara = new Country ({
 	abbreviation: 'EH',
 	flag: '🇪🇭',
 	territories: [],
+	timezones: [],
 });
 
 export default western_sahara;

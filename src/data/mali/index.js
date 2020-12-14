@@ -13,6 +13,7 @@ const mali = new Country ({
 	abbreviation: 'ML',
 	flag: '🇲🇱',
 	territories: [],
+	timezones: [],
 });
 
 export default mali;

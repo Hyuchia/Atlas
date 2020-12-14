@@ -13,6 +13,7 @@ const myanmar = new Country ({
 	abbreviation: 'MM',
 	flag: '🇲🇲',
 	territories: [],
+	timezones: [],
 });
 
 export default myanmar;

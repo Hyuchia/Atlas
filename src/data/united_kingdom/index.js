@@ -13,6 +13,7 @@ const united_kingdom = new Country ({
 	abbreviation: 'GB',
 	flag: '🇬🇧',
 	territories: [],
+	timezones: [],
 });
 
 export default united_kingdom;

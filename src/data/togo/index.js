@@ -13,6 +13,7 @@ const togo = new Country ({
 	abbreviation: 'TG',
 	flag: '🇹🇬',
 	territories: [],
+	timezones: [],
 });
 
 export default togo;

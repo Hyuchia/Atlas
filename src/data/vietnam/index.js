@@ -13,6 +13,7 @@ const vietnam = new Country ({
 	abbreviation: 'VN',
 	flag: '🇻🇳',
 	territories: [],
+	timezones: [],
 });
 
 export default vietnam;

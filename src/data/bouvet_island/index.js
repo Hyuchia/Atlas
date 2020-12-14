@@ -13,6 +13,7 @@ const bouvet_island = new Country ({
 	abbreviation: 'BV',
 	flag: '🇧🇻',
 	territories: [],
+	timezones: [],
 });
 
 export default bouvet_island;

@@ -13,6 +13,7 @@ const portugal = new Country ({
 	abbreviation: 'PT',
 	flag: '🇵🇹',
 	territories: [],
+	timezones: [],
 });
 
 export default portugal;

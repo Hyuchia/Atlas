@@ -13,6 +13,7 @@ const central_african_republic = new Country ({
 	abbreviation: 'CF',
 	flag: '🇨🇫',
 	territories: [],
+	timezones: [],
 });
 
 export default central_african_republic;

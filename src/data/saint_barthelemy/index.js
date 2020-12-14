@@ -13,6 +13,7 @@ const saint_barthelemy = new Country ({
 	abbreviation: 'BL',
 	flag: '🇧🇱',
 	territories: [],
+	timezones: [],
 });
 
 export default saint_barthelemy;

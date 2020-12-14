@@ -13,6 +13,7 @@ const dominica = new Country ({
 	abbreviation: 'DM',
 	flag: '🇩🇲',
 	territories: [],
+	timezones: [],
 });
 
 export default dominica;

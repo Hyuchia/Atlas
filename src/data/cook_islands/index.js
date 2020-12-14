@@ -13,6 +13,7 @@ const cook_islands = new Country ({
 	abbreviation: 'CK',
 	flag: '🇨🇰',
 	territories: [],
+	timezones: [],
 });
 
 export default cook_islands;

@@ -13,6 +13,7 @@ const barbados = new Country ({
 	abbreviation: 'BB',
 	flag: '🇧🇧',
 	territories: [],
+	timezones: [],
 });
 
 export default barbados;

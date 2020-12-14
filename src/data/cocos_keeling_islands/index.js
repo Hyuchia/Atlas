@@ -13,6 +13,7 @@ const cocos_keeling_islands = new Country ({
 	abbreviation: 'CC',
 	flag: '🇨🇨',
 	territories: [],
+	timezones: [],
 });
 
 export default cocos_keeling_islands;

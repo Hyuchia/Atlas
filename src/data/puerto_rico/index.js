@@ -13,6 +13,7 @@ const puerto_rico = new Country ({
 	abbreviation: 'PR',
 	flag: '🇵🇷',
 	territories: [],
+	timezones: [],
 });
 
 export default puerto_rico;

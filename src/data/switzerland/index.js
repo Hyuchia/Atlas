@@ -13,6 +13,7 @@ const switzerland = new Country ({
 	abbreviation: 'CH',
 	flag: '🇨🇭',
 	territories: [],
+	timezones: [],
 });
 
 export default switzerland;

@@ -13,6 +13,7 @@ const poland = new Country ({
 	abbreviation: 'PL',
 	flag: '🇵🇱',
 	territories: [],
+	timezones: [],
 });
 
 export default poland;

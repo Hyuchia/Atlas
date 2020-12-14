@@ -3,6 +3,14 @@
     "abbreviation": "WY",
 	"type": "State",
 	"capital": "Cheyenne",
+	"timezones": [
+		{
+			"name": "Mountain Time Zone",
+			"abbreviation": "MST",
+			"iana": "America/Denver",
+			"utc": -7
+		}
+	],
     "cities": [
         "Afton",
         "Albin",

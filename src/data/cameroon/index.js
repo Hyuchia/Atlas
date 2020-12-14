@@ -13,6 +13,7 @@ const cameroon = new Country ({
 	abbreviation: 'CM',
 	flag: '🇨🇲',
 	territories: [],
+	timezones: [],
 });
 
 export default cameroon;

@@ -13,6 +13,7 @@ const senegal = new Country ({
 	abbreviation: 'SN',
 	flag: '🇸🇳',
 	territories: [],
+	timezones: [],
 });
 
 export default senegal;

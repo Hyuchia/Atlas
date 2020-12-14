@@ -20,6 +20,7 @@ CDPs have been included in Hawaii's data and Townships were not included in Mich
 
 #### Data Sources
 * Wikipedia's List of municipalities for each state
+* [Wikipedia's US Time](https://en.wikipedia.org/wiki/Time_in_the_United_States)
 
 ## Documentation
 

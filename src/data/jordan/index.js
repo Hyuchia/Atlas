@@ -13,6 +13,7 @@ const jordan = new Country ({
 	abbreviation: 'JO',
 	flag: '🇯🇴',
 	territories: [],
+	timezones: [],
 });
 
 export default jordan;

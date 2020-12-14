@@ -13,6 +13,7 @@ const armenia = new Country ({
 	abbreviation: 'AM',
 	flag: '🇦🇲',
 	territories: [],
+	timezones: [],
 });
 
 export default armenia;

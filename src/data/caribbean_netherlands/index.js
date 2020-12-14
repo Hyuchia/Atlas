@@ -13,6 +13,7 @@ const caribbean_netherlands = new Country ({
 	abbreviation: 'BQ',
 	flag: '',
 	territories: [],
+	timezones: [],
 });
 
 export default caribbean_netherlands;

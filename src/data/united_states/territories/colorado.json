@@ -3,6 +3,14 @@
     "abbreviation": "CO",
 	"type": "State",
 	"capital": "Denver",
+	"timezones": [
+		{
+			"name": "Mountain Time Zone",
+			"abbreviation": "MST",
+			"iana": "America/Denver",
+			"utc": -7
+		}
+	],
     "cities": [
         "Aguilar",
         "Akron",

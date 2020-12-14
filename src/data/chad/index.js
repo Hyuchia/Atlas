@@ -13,6 +13,7 @@ const chad = new Country ({
 	abbreviation: 'TD',
 	flag: '🇹🇩',
 	territories: [],
+	timezones: [],
 });
 
 export default chad;

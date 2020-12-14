@@ -3,6 +3,14 @@
     "abbreviation": "HI",
 	"type": "State",
 	"capital": "Honolulu",
+	"timezones": [
+		{
+			"name": "Hawaii Time Zone",
+			"abbreviation": "HST",
+			"iana": "America/Honolulu",
+			"utc": -10
+		}
+	],
     "cities": [
         "Ahuimanu",
         "Aiea",

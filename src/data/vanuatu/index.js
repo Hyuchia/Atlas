@@ -13,6 +13,7 @@ const vanuatu = new Country ({
 	abbreviation: 'VU',
 	flag: '🇻🇺',
 	territories: [],
+	timezones: [],
 });
 
 export default vanuatu;

@@ -13,6 +13,7 @@ const jamaica = new Country ({
 	abbreviation: 'JM',
 	flag: '🇯🇲',
 	territories: [],
+	timezones: [],
 });
 
 export default jamaica;

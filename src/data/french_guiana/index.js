@@ -13,6 +13,7 @@ const french_guiana = new Country ({
 	abbreviation: 'GF',
 	flag: '🇬🇫',
 	territories: [],
+	timezones: [],
 });
 
 export default french_guiana;

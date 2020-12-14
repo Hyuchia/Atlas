@@ -13,6 +13,7 @@ const bahrain = new Country ({
 	abbreviation: 'BH',
 	flag: '🇧🇭',
 	territories: [],
+	timezones: [],
 });
 
 export default bahrain;

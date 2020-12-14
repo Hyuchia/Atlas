@@ -13,6 +13,7 @@ const iceland = new Country ({
 	abbreviation: 'IS',
 	flag: '🇮🇸',
 	territories: [],
+	timezones: [],
 });
 
 export default iceland;

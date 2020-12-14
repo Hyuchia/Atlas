@@ -13,6 +13,7 @@ const guinea = new Country ({
 	abbreviation: 'GN',
 	flag: '🇬🇳',
 	territories: [],
+	timezones: [],
 });
 
 export default guinea;

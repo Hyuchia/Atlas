@@ -13,6 +13,7 @@ const georgia = new Country ({
 	abbreviation: 'GE',
 	flag: '🇬🇪',
 	territories: [],
+	timezones: [],
 });
 
 export default georgia;

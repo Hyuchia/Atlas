@@ -13,6 +13,7 @@ const bangladesh = new Country ({
 	abbreviation: 'BD',
 	flag: '🇧🇩',
 	territories: [],
+	timezones: [],
 });
 
 export default bangladesh;

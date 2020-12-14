@@ -13,6 +13,7 @@ const tajikistan = new Country ({
 	abbreviation: 'TJ',
 	flag: '🇹🇯',
 	territories: [],
+	timezones: [],
 });
 
 export default tajikistan;

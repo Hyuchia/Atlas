@@ -13,6 +13,7 @@ const american_samoa = new Country ({
 	abbreviation: 'AS',
 	flag: '🇦🇸',
 	territories: [],
+	timezones: [],
 });
 
 export default american_samoa;

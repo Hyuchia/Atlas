@@ -13,6 +13,7 @@ const kosovo = new Country ({
 	abbreviation: 'XK',
 	flag: '🇽🇰',
 	territories: [],
+	timezones: [],
 });
 
 export default kosovo;

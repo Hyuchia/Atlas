@@ -13,6 +13,7 @@ const samoa = new Country ({
 	abbreviation: 'WS',
 	flag: '🇼🇸',
 	territories: [],
+	timezones: [],
 });
 
 export default samoa;

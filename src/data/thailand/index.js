@@ -13,6 +13,7 @@ const thailand = new Country ({
 	abbreviation: 'TH',
 	flag: '🇹🇭',
 	territories: [],
+	timezones: [],
 });
 
 export default thailand;

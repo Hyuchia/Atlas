@@ -13,6 +13,7 @@ const kyrgyzstan = new Country ({
 	abbreviation: 'KG',
 	flag: '🇰🇬',
 	territories: [],
+	timezones: [],
 });
 
 export default kyrgyzstan;

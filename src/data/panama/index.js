@@ -13,6 +13,7 @@ const panama = new Country ({
 	abbreviation: 'PA',
 	flag: '🇵🇦',
 	territories: [],
+	timezones: [],
 });
 
 export default panama;

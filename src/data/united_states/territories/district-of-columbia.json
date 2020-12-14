@@ -3,6 +3,14 @@
     "abbreviation": "DC",
 	"type": "Federal District",
 	"capital": "Washington",
+	"timezones": [
+		{
+			"name": "Eastern Time Zone",
+			"abbreviation": "EST",
+			"iana": "America/New_York",
+			"utc": -5
+		}
+	],
     "cities": [
         "Washington"
     ]

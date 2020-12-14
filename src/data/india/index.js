@@ -13,6 +13,7 @@ const india = new Country ({
 	abbreviation: 'IN',
 	flag: '🇮🇳',
 	territories: [],
+	timezones: [],
 });
 
 export default india;

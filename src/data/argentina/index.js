@@ -13,6 +13,7 @@ const argentina = new Country ({
 	abbreviation: 'AR',
 	flag: '🇦🇷',
 	territories: [],
+	timezones: [],
 });
 
 export default argentina;

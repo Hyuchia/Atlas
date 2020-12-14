@@ -13,6 +13,7 @@ const philippines = new Country ({
 	abbreviation: 'PH',
 	flag: '🇵🇭',
 	territories: [],
+	timezones: [],
 });
 
 export default philippines;

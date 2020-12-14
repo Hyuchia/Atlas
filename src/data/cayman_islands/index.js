@@ -13,6 +13,7 @@ const cayman_islands = new Country ({
 	abbreviation: 'KY',
 	flag: '🇰🇾',
 	territories: [],
+	timezones: [],
 });
 
 export default cayman_islands;

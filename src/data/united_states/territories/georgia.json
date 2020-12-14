@@ -3,6 +3,14 @@
     "abbreviation": "GA",
 	"type": "State",
 	"capital": "Atlanta",
+	"timezones": [
+		{
+			"name": "Eastern Time Zone",
+			"abbreviation": "EST",
+			"iana": "America/New_York",
+			"utc": -5
+		}
+	],
     "cities": [
         "Abbeville",
         "Acworth",

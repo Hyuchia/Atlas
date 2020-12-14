@@ -13,6 +13,7 @@ const bolivia = new Country ({
 	abbreviation: 'BO',
 	flag: '🇧🇴',
 	territories: [],
+	timezones: [],
 });
 
 export default bolivia;

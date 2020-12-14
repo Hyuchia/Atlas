@@ -13,6 +13,7 @@ const turks_and_caicos_islands = new Country ({
 	abbreviation: 'TC',
 	flag: '🇹🇨',
 	territories: [],
+	timezones: [],
 });
 
 export default turks_and_caicos_islands;

@@ -13,6 +13,7 @@ const guernsey = new Country ({
 	abbreviation: 'GG',
 	flag: '🇬🇬',
 	territories: [],
+	timezones: [],
 });
 
 export default guernsey;

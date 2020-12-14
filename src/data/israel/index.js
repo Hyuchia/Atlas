@@ -13,6 +13,7 @@ const israel = new Country ({
 	abbreviation: 'IL',
 	flag: '🇮🇱',
 	territories: [],
+	timezones: [],
 });
 
 export default israel;

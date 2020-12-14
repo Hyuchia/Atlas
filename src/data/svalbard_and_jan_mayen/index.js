@@ -13,6 +13,7 @@ const svalbard_and_jan_mayen = new Country ({
 	abbreviation: 'SJ',
 	flag: '🇸🇯',
 	territories: [],
+	timezones: [],
 });
 
 export default svalbard_and_jan_mayen;

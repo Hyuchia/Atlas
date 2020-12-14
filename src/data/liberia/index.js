@@ -13,6 +13,7 @@ const liberia = new Country ({
 	abbreviation: 'LR',
 	flag: '🇱🇷',
 	territories: [],
+	timezones: [],
 });
 
 export default liberia;

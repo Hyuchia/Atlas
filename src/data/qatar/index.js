@@ -13,6 +13,7 @@ const qatar = new Country ({
 	abbreviation: 'QA',
 	flag: '🇶🇦',
 	territories: [],
+	timezones: [],
 });
 
 export default qatar;

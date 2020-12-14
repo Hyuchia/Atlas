@@ -13,6 +13,7 @@ const dr_congo = new Country ({
 	abbreviation: 'CD',
 	flag: '🇨🇩',
 	territories: [],
+	timezones: [],
 });
 
 export default dr_congo;

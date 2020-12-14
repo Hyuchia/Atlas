@@ -13,6 +13,7 @@ const french_southern_and_antarctic_lands = new Country ({
 	abbreviation: 'TF',
 	flag: '🇹🇫',
 	territories: [],
+	timezones: [],
 });
 
 export default french_southern_and_antarctic_lands;

@@ -13,6 +13,7 @@ const san_marino = new Country ({
 	abbreviation: 'SM',
 	flag: '🇸🇲',
 	territories: [],
+	timezones: [],
 });
 
 export default san_marino;

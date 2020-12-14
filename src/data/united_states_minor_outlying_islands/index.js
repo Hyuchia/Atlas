@@ -13,6 +13,7 @@ const united_states_minor_outlying_islands = new Country ({
 	abbreviation: 'UM',
 	flag: '🇺🇲',
 	territories: [],
+	timezones: [],
 });
 
 export default united_states_minor_outlying_islands;

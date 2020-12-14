@@ -13,6 +13,7 @@ const uruguay = new Country ({
 	abbreviation: 'UY',
 	flag: '🇺🇾',
 	territories: [],
+	timezones: [],
 });
 
 export default uruguay;

@@ -3,6 +3,38 @@
     "abbreviation": "ND",
 	"type": "State",
 	"capital": "Bismarck",
+	"timezones": [
+		{
+			"name": "Central Time Zone",
+			"abbreviation": "CST",
+			"iana": "America/Chicago",
+			"utc": -6
+		},
+		{
+			"name": "Central Time Zone",
+			"abbreviation": "CST",
+			"iana": "America/North_Dakota/Beulah",
+			"utc": -6
+		},
+		{
+			"name": "Central Time Zone",
+			"abbreviation": "CST",
+			"iana": "America/North_Dakota/Center",
+			"utc": -6
+		},
+		{
+			"name": "Central Time Zone",
+			"abbreviation": "CST",
+			"iana": "America/North_Dakota/New_Salem",
+			"utc": -6
+		},
+		{
+			"name": "Mountain Time Zone",
+			"abbreviation": "MST",
+			"iana": "America/Boise",
+			"utc": -7
+		}
+	],
     "cities": [
         "Abercrombie",
         "Adams",

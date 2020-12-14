@@ -13,6 +13,7 @@ const martinique = new Country ({
 	abbreviation: 'MQ',
 	flag: '🇲🇶',
 	territories: [],
+	timezones: [],
 });
 
 export default martinique;

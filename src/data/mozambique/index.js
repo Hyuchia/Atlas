@@ -13,6 +13,7 @@ const mozambique = new Country ({
 	abbreviation: 'MZ',
 	flag: '🇲🇿',
 	territories: [],
+	timezones: [],
 });
 
 export default mozambique;

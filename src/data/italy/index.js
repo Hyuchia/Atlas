@@ -13,6 +13,7 @@ const italy = new Country ({
 	abbreviation: 'IT',
 	flag: '🇮🇹',
 	territories: [],
+	timezones: [],
 });
 
 export default italy;

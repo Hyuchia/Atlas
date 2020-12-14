@@ -3,6 +3,14 @@
     "abbreviation": "PR",
 	"type": "Unincorporated and Organized Territory",
 	"capital": "San Juan",
+	"timezones": [
+		{
+			"name": "Atlantic Time Zone",
+			"abbreviation": "AST",
+			"iana": "America/Puerto_Rico",
+			"utc": -4
+		}
+	],
     "cities": [
         "Adjuntas",
         "Aguada",

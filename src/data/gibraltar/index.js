@@ -13,6 +13,7 @@ const gibraltar = new Country ({
 	abbreviation: 'GI',
 	flag: '🇬🇮',
 	territories: [],
+	timezones: [],
 });
 
 export default gibraltar;

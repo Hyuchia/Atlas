@@ -13,6 +13,7 @@ const honduras = new Country ({
 	abbreviation: 'HN',
 	flag: '🇭🇳',
 	territories: [],
+	timezones: [],
 });
 
 export default honduras;

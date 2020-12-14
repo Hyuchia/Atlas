@@ -13,6 +13,7 @@ const costa_rica = new Country ({
 	abbreviation: 'CR',
 	flag: '🇨🇷',
 	territories: [],
+	timezones: [],
 });
 
 export default costa_rica;

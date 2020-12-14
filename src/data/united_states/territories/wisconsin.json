@@ -3,6 +3,14 @@
     "abbreviation": "WI",
 	"type": "State",
 	"capital": "Madison",
+	"timezones": [
+		{
+			"name": "Central Time Zone",
+			"abbreviation": "CST",
+			"iana": "America/Chicago",
+			"utc": -6
+		}
+	],
     "cities": [
 		"Abbotsford",
 		"Adams",

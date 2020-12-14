@@ -13,6 +13,7 @@ const nepal = new Country ({
 	abbreviation: 'NP',
 	flag: '🇳🇵',
 	territories: [],
+	timezones: [],
 });
 
 export default nepal;

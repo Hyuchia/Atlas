@@ -13,6 +13,7 @@ const mauritius = new Country ({
 	abbreviation: 'MU',
 	flag: '🇲🇺',
 	territories: [],
+	timezones: [],
 });
 
 export default mauritius;

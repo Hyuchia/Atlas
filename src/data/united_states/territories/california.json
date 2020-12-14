@@ -3,6 +3,14 @@
     "abbreviation": "CA",
 	"type": "State",
 	"capital": "Sacramento",
+	"timezones": [
+		{
+			"name": "Pacific Time Zone",
+			"abbreviation": "PST",
+			"iana": "America/Los_Angeles",
+			"utc": -8
+		}
+	],
     "cities": [
         "Adelanto",
         "Agoura Hills",

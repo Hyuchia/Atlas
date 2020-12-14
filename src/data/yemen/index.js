@@ -13,6 +13,7 @@ const yemen = new Country ({
 	abbreviation: 'YE',
 	flag: '🇾🇪',
 	territories: [],
+	timezones: [],
 });
 
 export default yemen;

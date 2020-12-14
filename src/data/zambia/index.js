@@ -13,6 +13,7 @@ const zambia = new Country ({
 	abbreviation: 'ZM',
 	flag: '🇿🇲',
 	territories: [],
+	timezones: [],
 });
 
 export default zambia;

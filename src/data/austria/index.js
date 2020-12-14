@@ -13,6 +13,7 @@ const austria = new Country ({
 	abbreviation: 'AT',
 	flag: '🇦🇹',
 	territories: [],
+	timezones: [],
 });
 
 export default austria;

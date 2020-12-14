@@ -13,6 +13,7 @@ const united_states_virgin_islands = new Country ({
 	abbreviation: 'VI',
 	flag: '🇻🇮',
 	territories: [],
+	timezones: [],
 });
 
 export default united_states_virgin_islands;

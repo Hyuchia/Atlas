@@ -2,7 +2,15 @@
     "name": "Alabama",
     "abbreviation": "AL",
     "type": "State",
-    "capital": "Montgomery",
+	"capital": "Montgomery",
+	"timezones": [
+		{
+			"name": "Central Time Zone",
+			"abbreviation": "CST",
+			"iana": "America/Chicago",
+			"utc": -6
+		}
+	],
     "cities": [
         "Abbeville",
         "Adamsville",

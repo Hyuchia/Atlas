@@ -13,6 +13,7 @@ const belize = new Country ({
 	abbreviation: 'BZ',
 	flag: '🇧🇿',
 	territories: [],
+	timezones: [],
 });
 
 export default belize;

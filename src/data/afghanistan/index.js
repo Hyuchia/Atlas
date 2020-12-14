@@ -13,6 +13,7 @@ const afghanistan = new Country ({
 	abbreviation: 'AF',
 	flag: '🇦🇫',
 	territories: [],
+	timezones: [],
 });
 
 export default afghanistan;

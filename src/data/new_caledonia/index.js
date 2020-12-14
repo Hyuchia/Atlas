@@ -13,6 +13,7 @@ const new_caledonia = new Country ({
 	abbreviation: 'NC',
 	flag: '🇳🇨',
 	territories: [],
+	timezones: [],
 });
 
 export default new_caledonia;

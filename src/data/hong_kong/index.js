@@ -13,6 +13,7 @@ const hong_kong = new Country ({
 	abbreviation: 'HK',
 	flag: '🇭🇰',
 	territories: [],
+	timezones: [],
 });
 
 export default hong_kong;

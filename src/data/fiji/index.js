@@ -13,6 +13,7 @@ const fiji = new Country ({
 	abbreviation: 'FJ',
 	flag: '🇫🇯',
 	territories: [],
+	timezones: [],
 });
 
 export default fiji;

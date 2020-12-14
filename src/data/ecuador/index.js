@@ -13,6 +13,7 @@ const ecuador = new Country ({
 	abbreviation: 'EC',
 	flag: '🇪🇨',
 	territories: [],
+	timezones: [],
 });
 
 export default ecuador;

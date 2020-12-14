@@ -13,6 +13,7 @@ const united_arab_emirates = new Country ({
 	abbreviation: 'AE',
 	flag: '🇦🇪',
 	territories: [],
+	timezones: [],
 });
 
 export default united_arab_emirates;

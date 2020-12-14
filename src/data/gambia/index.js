@@ -13,6 +13,7 @@ const gambia = new Country ({
 	abbreviation: 'GM',
 	flag: '🇬🇲',
 	territories: [],
+	timezones: [],
 });
 
 export default gambia;

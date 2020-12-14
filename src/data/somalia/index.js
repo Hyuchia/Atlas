@@ -13,6 +13,7 @@ const somalia = new Country ({
 	abbreviation: 'SO',
 	flag: '🇸🇴',
 	territories: [],
+	timezones: [],
 });
 
 export default somalia;

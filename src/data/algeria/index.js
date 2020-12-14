@@ -13,6 +13,7 @@ const algeria = new Country ({
 	abbreviation: 'DZ',
 	flag: '🇩🇿',
 	territories: [],
+	timezones: [],
 });
 
 export default algeria;

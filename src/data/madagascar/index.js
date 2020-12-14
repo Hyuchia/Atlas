@@ -13,6 +13,7 @@ const madagascar = new Country ({
 	abbreviation: 'MG',
 	flag: '🇲🇬',
 	territories: [],
+	timezones: [],
 });
 
 export default madagascar;

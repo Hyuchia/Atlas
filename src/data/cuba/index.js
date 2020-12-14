@@ -13,6 +13,7 @@ const cuba = new Country ({
 	abbreviation: 'CU',
 	flag: '🇨🇺',
 	territories: [],
+	timezones: [],
 });
 
 export default cuba;

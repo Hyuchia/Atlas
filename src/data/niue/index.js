@@ -13,6 +13,7 @@ const niue = new Country ({
 	abbreviation: 'NU',
 	flag: '🇳🇺',
 	territories: [],
+	timezones: [],
 });
 
 export default niue;

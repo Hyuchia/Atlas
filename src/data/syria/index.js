@@ -13,6 +13,7 @@ const syria = new Country ({
 	abbreviation: 'SY',
 	flag: '🇸🇾',
 	territories: [],
+	timezones: [],
 });
 
 export default syria;

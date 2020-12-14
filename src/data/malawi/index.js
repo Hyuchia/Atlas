@@ -13,6 +13,7 @@ const malawi = new Country ({
 	abbreviation: 'MW',
 	flag: '🇲🇼',
 	territories: [],
+	timezones: [],
 });
 
 export default malawi;

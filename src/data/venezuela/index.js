@@ -13,6 +13,7 @@ const venezuela = new Country ({
 	abbreviation: 'VE',
 	flag: '🇻🇪',
 	territories: [],
+	timezones: [],
 });
 
 export default venezuela;

@@ -13,6 +13,7 @@ const haiti = new Country ({
 	abbreviation: 'HT',
 	flag: '🇭🇹',
 	territories: [],
+	timezones: [],
 });
 
 export default haiti;

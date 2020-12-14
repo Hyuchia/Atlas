@@ -13,6 +13,7 @@ const ethiopia = new Country ({
 	abbreviation: 'ET',
 	flag: '🇪🇹',
 	territories: [],
+	timezones: [],
 });
 
 export default ethiopia;

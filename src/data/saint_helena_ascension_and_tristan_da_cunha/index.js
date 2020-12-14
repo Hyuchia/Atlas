@@ -13,6 +13,7 @@ const saint_helena_ascension_and_tristan_da_cunha = new Country ({
 	abbreviation: 'SH',
 	flag: '🇸🇭',
 	territories: [],
+	timezones: [],
 });
 
 export default saint_helena_ascension_and_tristan_da_cunha;

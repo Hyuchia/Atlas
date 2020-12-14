@@ -13,6 +13,7 @@ const bhutan = new Country ({
 	abbreviation: 'BT',
 	flag: '🇧🇹',
 	territories: [],
+	timezones: [],
 });
 
 export default bhutan;

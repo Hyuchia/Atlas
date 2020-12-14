@@ -13,6 +13,7 @@ const libya = new Country ({
 	abbreviation: 'LY',
 	flag: '🇱🇾',
 	territories: [],
+	timezones: [],
 });
 
 export default libya;

@@ -13,6 +13,7 @@ const morocco = new Country ({
 	abbreviation: 'MA',
 	flag: '🇲🇦',
 	territories: [],
+	timezones: [],
 });
 
 export default morocco;

@@ -13,6 +13,7 @@ const saint_kitts_and_nevis = new Country ({
 	abbreviation: 'KN',
 	flag: '🇰🇳',
 	territories: [],
+	timezones: [],
 });
 
 export default saint_kitts_and_nevis;

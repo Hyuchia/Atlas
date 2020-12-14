@@ -13,6 +13,7 @@ const australia = new Country ({
 	abbreviation: 'AU',
 	flag: '🇦🇺',
 	territories: [],
+	timezones: [],
 });
 
 export default australia;

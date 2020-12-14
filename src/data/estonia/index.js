@@ -13,6 +13,7 @@ const estonia = new Country ({
 	abbreviation: 'EE',
 	flag: '🇪🇪',
 	territories: [],
+	timezones: [],
 });
 
 export default estonia;

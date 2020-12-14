@@ -13,6 +13,7 @@ const iraq = new Country ({
 	abbreviation: 'IQ',
 	flag: '🇮🇶',
 	territories: [],
+	timezones: [],
 });
 
 export default iraq;

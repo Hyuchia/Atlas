@@ -13,6 +13,7 @@ const taiwan = new Country ({
 	abbreviation: 'TW',
 	flag: '🇹🇼',
 	territories: [],
+	timezones: [],
 });
 
 export default taiwan;

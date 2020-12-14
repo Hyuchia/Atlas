@@ -13,6 +13,7 @@ const seychelles = new Country ({
 	abbreviation: 'SC',
 	flag: '🇸🇨',
 	territories: [],
+	timezones: [],
 });
 
 export default seychelles;

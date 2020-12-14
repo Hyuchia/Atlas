@@ -13,6 +13,7 @@ const tanzania = new Country ({
 	abbreviation: 'TZ',
 	flag: '🇹🇿',
 	territories: [],
+	timezones: [],
 });
 
 export default tanzania;

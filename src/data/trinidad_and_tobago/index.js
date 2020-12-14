@@ -13,6 +13,7 @@ const trinidad_and_tobago = new Country ({
 	abbreviation: 'TT',
 	flag: '🇹🇹',
 	territories: [],
+	timezones: [],
 });
 
 export default trinidad_and_tobago;

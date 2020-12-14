@@ -3,6 +3,20 @@
     "abbreviation": "ID",
 	"type": "State",
 	"capital": "Boise",
+	"timezones": [
+		{
+			"name": "Mountain Time Zone",
+			"abbreviation": "MST",
+			"iana": "America/Boise",
+			"utc": -7
+		},
+		{
+			"name": "Pacific Time Zone",
+			"abbreviation": "PST",
+			"iana": "America/Los_Angeles",
+			"utc": -8
+		}
+	],
     "cities": [
         "Aberdeen",
         "Acequia",

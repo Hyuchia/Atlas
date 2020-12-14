@@ -13,6 +13,7 @@ const belarus = new Country ({
 	abbreviation: 'BY',
 	flag: '🇧🇾',
 	territories: [],
+	timezones: [],
 });
 
 export default belarus;

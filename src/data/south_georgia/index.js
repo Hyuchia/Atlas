@@ -13,6 +13,7 @@ const south_georgia = new Country ({
 	abbreviation: 'GS',
 	flag: '🇬🇸',
 	territories: [],
+	timezones: [],
 });
 
 export default south_georgia;

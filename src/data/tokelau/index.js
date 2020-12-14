@@ -13,6 +13,7 @@ const tokelau = new Country ({
 	abbreviation: 'TK',
 	flag: '🇹🇰',
 	territories: [],
+	timezones: [],
 });
 
 export default tokelau;

@@ -13,6 +13,7 @@ const british_indian_ocean_territory = new Country ({
 	abbreviation: 'IO',
 	flag: '🇮🇴',
 	territories: [],
+	timezones: [],
 });
 
 export default british_indian_ocean_territory;

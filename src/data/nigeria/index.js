@@ -13,6 +13,7 @@ const nigeria = new Country ({
 	abbreviation: 'NG',
 	flag: '🇳🇬',
 	territories: [],
+	timezones: [],
 });
 
 export default nigeria;

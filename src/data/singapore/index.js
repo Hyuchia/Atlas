@@ -13,6 +13,7 @@ const singapore = new Country ({
 	abbreviation: 'SG',
 	flag: '🇸🇬',
 	territories: [],
+	timezones: [],
 });
 
 export default singapore;

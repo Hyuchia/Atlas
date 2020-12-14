@@ -13,6 +13,7 @@ const falkland_islands = new Country ({
 	abbreviation: 'FK',
 	flag: '🇫🇰',
 	territories: [],
+	timezones: [],
 });
 
 export default falkland_islands;

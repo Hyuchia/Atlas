@@ -3,6 +3,14 @@
     "abbreviation": "RI",
 	"type": "State",
 	"capital": "Providence",
+	"timezones": [
+		{
+			"name": "Eastern Time Zone",
+			"abbreviation": "EST",
+			"iana": "America/New_York",
+			"utc": -5
+		}
+	],
     "cities": [
         "Barrington",
         "Bristol",

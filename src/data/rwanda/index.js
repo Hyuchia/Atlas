@@ -13,6 +13,7 @@ const rwanda = new Country ({
 	abbreviation: 'RW',
 	flag: '🇷🇼',
 	territories: [],
+	timezones: [],
 });
 
 export default rwanda;

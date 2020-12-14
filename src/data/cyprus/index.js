@@ -13,6 +13,7 @@ const cyprus = new Country ({
 	abbreviation: 'CY',
 	flag: '🇨🇾',
 	territories: [],
+	timezones: [],
 });
 
 export default cyprus;

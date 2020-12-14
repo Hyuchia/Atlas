@@ -13,6 +13,7 @@ const bosnia_and_herzegovina = new Country ({
 	abbreviation: 'BA',
 	flag: '🇧🇦',
 	territories: [],
+	timezones: [],
 });
 
 export default bosnia_and_herzegovina;

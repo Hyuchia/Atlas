@@ -13,6 +13,7 @@ const croatia = new Country ({
 	abbreviation: 'HR',
 	flag: '🇭🇷',
 	territories: [],
+	timezones: [],
 });
 
 export default croatia;

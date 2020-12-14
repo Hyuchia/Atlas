@@ -13,6 +13,7 @@ const serbia = new Country ({
 	abbreviation: 'RS',
 	flag: '🇷🇸',
 	territories: [],
+	timezones: [],
 });
 
 export default serbia;

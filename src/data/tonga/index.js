@@ -13,6 +13,7 @@ const tonga = new Country ({
 	abbreviation: 'TO',
 	flag: '🇹🇴',
 	territories: [],
+	timezones: [],
 });
 
 export default tonga;

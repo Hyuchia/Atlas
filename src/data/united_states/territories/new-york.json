@@ -3,6 +3,14 @@
 	"abbreviation": "NY",
 	"type": "State",
 	"capital": "Albany",
+	"timezones": [
+		{
+			"name": "Eastern Time Zone",
+			"abbreviation": "EST",
+			"iana": "America/New_York",
+			"utc": -5
+		}
+	],
 	"cities": [
 		"Adams",
 		"Addison",

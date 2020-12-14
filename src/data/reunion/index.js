@@ -13,6 +13,7 @@ const reunion = new Country ({
 	abbreviation: 'RE',
 	flag: '🇷🇪',
 	territories: [],
+	timezones: [],
 });
 
 export default reunion;

@@ -3,6 +3,74 @@
     "abbreviation": "IN",
 	"type": "State",
 	"capital": "Indianapolis",
+	"timezones": [
+		{
+			"name": "Eastern Time Zone",
+			"abbreviation": "EST",
+			"iana": "America/Indiana/Indianapolis",
+			"utc": -5
+		},
+		{
+			"name": "Eastern Time Zone",
+			"abbreviation": "EST",
+			"iana": "America/Indiana/Winamac",
+			"utc": -5
+		},
+		{
+			"name": "Eastern Time Zone",
+			"abbreviation": "EST",
+			"iana": "America/Indiana/Petersburg",
+			"utc": -5
+		},
+		{
+			"name": "Eastern Time Zone",
+			"abbreviation": "EST",
+			"iana": "America/Indiana/Vincennes",
+			"utc": -5
+		},
+		{
+			"name": "Eastern Time Zone",
+			"abbreviation": "EST",
+			"iana": "America/Indiana/Marengo",
+			"utc": -5
+		},
+		{
+			"name": "Eastern Time Zone",
+			"abbreviation": "EST",
+			"iana": "America/Indiana/Louisville",
+			"utc": -5
+		},
+		{
+			"name": "Eastern Time Zone",
+			"abbreviation": "EST",
+			"iana": "America/Indiana/Vevay",
+			"utc": -5
+		},
+		{
+			"name": "Eastern Time Zone",
+			"abbreviation": "EST",
+			"iana": "America/New_York",
+			"utc": -5
+		},
+		{
+			"name": "Central Time Zone",
+			"abbreviation": "CST",
+			"iana": "America/Chicago",
+			"utc": -6
+		},
+		{
+			"name": "Central Time Zone",
+			"abbreviation": "CST",
+			"iana": "America/Indiana/Knox",
+			"utc": -6
+		},
+		{
+			"name": "Central Time Zone",
+			"abbreviation": "CST",
+			"iana": "America/Indiana/Tell_City",
+			"utc": -6
+		}
+	],
     "cities": [
 		"Advance",
 		"Akron",

@@ -13,6 +13,7 @@ const burundi = new Country ({
 	abbreviation: 'BI',
 	flag: '🇧🇮',
 	territories: [],
+	timezones: [],
 });
 
 export default burundi;

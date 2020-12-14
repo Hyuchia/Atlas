@@ -13,6 +13,7 @@ const anguilla = new Country ({
 	abbreviation: 'AI',
 	flag: '🇦🇮',
 	territories: [],
+	timezones: [],
 });
 
 export default anguilla;

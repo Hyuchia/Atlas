@@ -13,6 +13,7 @@ const eritrea = new Country ({
 	abbreviation: 'ER',
 	flag: '🇪🇷',
 	territories: [],
+	timezones: [],
 });
 
 export default eritrea;

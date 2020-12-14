@@ -13,6 +13,7 @@ const china = new Country ({
 	abbreviation: 'CN',
 	flag: '🇨🇳',
 	territories: [],
+	timezones: [],
 });
 
 export default china;

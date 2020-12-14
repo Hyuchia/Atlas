@@ -13,6 +13,7 @@ const montenegro = new Country ({
 	abbreviation: 'ME',
 	flag: '🇲🇪',
 	territories: [],
+	timezones: [],
 });
 
 export default montenegro;

@@ -3,6 +3,14 @@
     "abbreviation": "OK",
 	"type": "State",
 	"capital": "Oklahoma City",
+	"timezones": [
+		{
+			"name": "Central Time Zone",
+			"abbreviation": "CST",
+			"iana": "America/Chicago",
+			"utc": -6
+		}
+	],
     "cities": [
         "Achille",
         "Ada",

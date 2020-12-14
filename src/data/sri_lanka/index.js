@@ -13,6 +13,7 @@ const sri_lanka = new Country ({
 	abbreviation: 'LK',
 	flag: '🇱🇰',
 	territories: [],
+	timezones: [],
 });
 
 export default sri_lanka;

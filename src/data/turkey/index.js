@@ -13,6 +13,7 @@ const turkey = new Country ({
 	abbreviation: 'TR',
 	flag: '🇹🇷',
 	territories: [],
+	timezones: [],
 });
 
 export default turkey;

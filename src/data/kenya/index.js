@@ -13,6 +13,7 @@ const kenya = new Country ({
 	abbreviation: 'KE',
 	flag: '🇰🇪',
 	territories: [],
+	timezones: [],
 });
 
 export default kenya;

@@ -13,6 +13,7 @@ const canada = new Country ({
 	abbreviation: 'CA',
 	flag: '🇨🇦',
 	territories: [],
+	timezones: [],
 });
 
 export default canada;

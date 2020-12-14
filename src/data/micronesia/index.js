@@ -13,6 +13,7 @@ const micronesia = new Country ({
 	abbreviation: 'FM',
 	flag: '🇫🇲',
 	territories: [],
+	timezones: [],
 });
 
 export default micronesia;

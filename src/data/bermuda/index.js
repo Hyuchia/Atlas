@@ -13,6 +13,7 @@ const bermuda = new Country ({
 	abbreviation: 'BM',
 	flag: '🇧🇲',
 	territories: [],
+	timezones: [],
 });
 
 export default bermuda;

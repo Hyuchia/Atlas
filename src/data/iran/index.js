@@ -13,6 +13,7 @@ const iran = new Country ({
 	abbreviation: 'IR',
 	flag: '🇮🇷',
 	territories: [],
+	timezones: [],
 });
 
 export default iran;

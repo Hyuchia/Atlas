@@ -13,6 +13,7 @@ const cape_verde = new Country ({
 	abbreviation: 'CV',
 	flag: '🇨🇻',
 	territories: [],
+	timezones: [],
 });
 
 export default cape_verde;

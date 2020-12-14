@@ -13,6 +13,7 @@ const south_sudan = new Country ({
 	abbreviation: 'SS',
 	flag: '🇸🇸',
 	territories: [],
+	timezones: [],
 });
 
 export default south_sudan;

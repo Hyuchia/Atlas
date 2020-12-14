@@ -13,6 +13,7 @@ const kuwait = new Country ({
 	abbreviation: 'KW',
 	flag: '🇰🇼',
 	territories: [],
+	timezones: [],
 });
 
 export default kuwait;

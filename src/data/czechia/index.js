@@ -13,6 +13,7 @@ const czechia = new Country ({
 	abbreviation: 'CZ',
 	flag: '🇨🇿',
 	territories: [],
+	timezones: [],
 });
 
 export default czechia;

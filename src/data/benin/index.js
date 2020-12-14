@@ -13,6 +13,7 @@ const benin = new Country ({
 	abbreviation: 'BJ',
 	flag: '🇧🇯',
 	territories: [],
+	timezones: [],
 });
 
 export default benin;

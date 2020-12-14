@@ -13,6 +13,7 @@ const north_korea = new Country ({
 	abbreviation: 'KP',
 	flag: '🇰🇵',
 	territories: [],
+	timezones: [],
 });
 
 export default north_korea;

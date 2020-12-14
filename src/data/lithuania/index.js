@@ -13,6 +13,7 @@ const lithuania = new Country ({
 	abbreviation: 'LT',
 	flag: '🇱🇹',
 	territories: [],
+	timezones: [],
 });
 
 export default lithuania;

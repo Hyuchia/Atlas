@@ -13,6 +13,7 @@ const british_virgin_islands = new Country ({
 	abbreviation: 'VG',
 	flag: '🇻🇬',
 	territories: [],
+	timezones: [],
 });
 
 export default british_virgin_islands;

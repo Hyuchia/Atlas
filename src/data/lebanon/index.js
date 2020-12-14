@@ -13,6 +13,7 @@ const lebanon = new Country ({
 	abbreviation: 'LB',
 	flag: '🇱🇧',
 	territories: [],
+	timezones: [],
 });
 
 export default lebanon;

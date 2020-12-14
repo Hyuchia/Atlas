@@ -3,6 +3,14 @@
     "abbreviation": "UT",
 	"type": "State",
 	"capital": "Salt Lake City",
+	"timezones": [
+		{
+			"name": "Mountain Time Zone",
+			"abbreviation": "MST",
+			"iana": "America/Denver",
+			"utc": -7
+		}
+	],
     "cities": [
         "Alpine",
         "Alta",

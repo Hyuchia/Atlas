@@ -13,6 +13,7 @@ const greenland = new Country ({
 	abbreviation: 'GL',
 	flag: '🇬🇱',
 	territories: [],
+	timezones: [],
 });
 
 export default greenland;

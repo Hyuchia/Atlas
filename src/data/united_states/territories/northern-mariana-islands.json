@@ -3,6 +3,14 @@
     "abbreviation": "MP",
 	"type": "Unincorporated and Organized Territory",
 	"capital": "Saipan",
+	"timezones": [
+		{
+			"name": "Chamorro Time Zone",
+			"abbreviation": "ChST",
+			"iana": "America/Denver",
+			"utc": 10
+		}
+	],
     "cities": [
 		"Rota",
 		"Saipan",

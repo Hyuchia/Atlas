@@ -13,6 +13,7 @@ const andorra = new Country ({
 	abbreviation: 'AD',
 	flag: '🇦🇩',
 	territories: [],
+	timezones: [],
 });
 
 export default andorra;

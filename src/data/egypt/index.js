@@ -13,6 +13,7 @@ const egypt = new Country ({
 	abbreviation: 'EG',
 	flag: '🇪🇬',
 	territories: [],
+	timezones: [],
 });
 
 export default egypt;

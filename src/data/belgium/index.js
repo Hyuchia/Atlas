@@ -13,6 +13,7 @@ const belgium = new Country ({
 	abbreviation: 'BE',
 	flag: '🇧🇪',
 	territories: [],
+	timezones: [],
 });
 
 export default belgium;

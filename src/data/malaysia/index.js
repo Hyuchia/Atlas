@@ -13,6 +13,7 @@ const malaysia = new Country ({
 	abbreviation: 'MY',
 	flag: '🇲🇾',
 	territories: [],
+	timezones: [],
 });
 
 export default malaysia;

@@ -13,6 +13,7 @@ const hungary = new Country ({
 	abbreviation: 'HU',
 	flag: '🇭🇺',
 	territories: [],
+	timezones: [],
 });
 
 export default hungary;

@@ -3,6 +3,20 @@
     "abbreviation": "TX",
 	"type": "State",
 	"capital": "Austin",
+	"timezones": [
+		{
+			"name": "Central Time Zone",
+			"abbreviation": "CST",
+			"iana": "America/Chicago",
+			"utc": -6
+		},
+		{
+			"name": "Mountain Time Zone",
+			"abbreviation": "MST",
+			"iana": "America/Denver",
+			"utc": -7
+		}
+	],
     "cities": [
         "Abbott",
         "Abernathy",

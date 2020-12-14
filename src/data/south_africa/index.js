@@ -13,6 +13,7 @@ const south_africa = new Country ({
 	abbreviation: 'ZA',
 	flag: '🇿🇦',
 	territories: [],
+	timezones: [],
 });
 
 export default south_africa;

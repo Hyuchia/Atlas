@@ -3,6 +3,14 @@
     "abbreviation": "ME",
 	"type": "State",
 	"capital": "Augusta",
+	"timezones": [
+		{
+			"name": "Eastern Time Zone",
+			"abbreviation": "EST",
+			"iana": "America/New_York",
+			"utc": -5
+		}
+	],
     "cities": [
 		"Abbot",
 		"Acton",

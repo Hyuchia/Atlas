@@ -13,6 +13,7 @@ const guadeloupe = new Country ({
 	abbreviation: 'GP',
 	flag: '🇬🇵',
 	territories: [],
+	timezones: [],
 });
 
 export default guadeloupe;

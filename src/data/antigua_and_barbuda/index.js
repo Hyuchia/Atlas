@@ -13,6 +13,7 @@ const antigua_and_barbuda = new Country ({
 	abbreviation: 'AG',
 	flag: '🇦🇬',
 	territories: [],
+	timezones: [],
 });
 
 export default antigua_and_barbuda;

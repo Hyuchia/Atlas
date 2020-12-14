@@ -3,6 +3,14 @@
     "abbreviation": "IA",
 	"type": "State",
 	"capital": "Des Moines",
+	"timezones": [
+		{
+			"name": "Central Time Zone",
+			"abbreviation": "CST",
+			"iana": "America/Chicago",
+			"utc": -6
+		}
+	],
     "cities": [
         "Ackley",
         "Ackworth",

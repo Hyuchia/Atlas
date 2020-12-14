@@ -13,6 +13,7 @@ const oman = new Country ({
 	abbreviation: 'OM',
 	flag: '🇴🇲',
 	territories: [],
+	timezones: [],
 });
 
 export default oman;

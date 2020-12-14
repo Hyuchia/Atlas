@@ -13,6 +13,7 @@ const grenada = new Country ({
 	abbreviation: 'GD',
 	flag: '🇬🇩',
 	territories: [],
+	timezones: [],
 });
 
 export default grenada;

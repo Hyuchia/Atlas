@@ -13,6 +13,7 @@ const azerbaijan = new Country ({
 	abbreviation: 'AZ',
 	flag: '🇦🇿',
 	territories: [],
+	timezones: [],
 });
 
 export default azerbaijan;

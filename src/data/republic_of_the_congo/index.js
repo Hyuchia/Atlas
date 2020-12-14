@@ -13,6 +13,7 @@ const republic_of_the_congo = new Country ({
 	abbreviation: 'CG',
 	flag: '🇨🇬',
 	territories: [],
+	timezones: [],
 });
 
 export default republic_of_the_congo;

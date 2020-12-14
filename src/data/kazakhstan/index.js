@@ -13,6 +13,7 @@ const kazakhstan = new Country ({
 	abbreviation: 'KZ',
 	flag: '🇰🇿',
 	territories: [],
+	timezones: [],
 });
 
 export default kazakhstan;

@@ -13,6 +13,7 @@ const guam = new Country ({
 	abbreviation: 'GU',
 	flag: '🇬🇺',
 	territories: [],
+	timezones: [],
 });
 
 export default guam;

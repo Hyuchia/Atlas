@@ -13,6 +13,7 @@ const saint_lucia = new Country ({
 	abbreviation: 'LC',
 	flag: '🇱🇨',
 	territories: [],
+	timezones: [],
 });
 
 export default saint_lucia;

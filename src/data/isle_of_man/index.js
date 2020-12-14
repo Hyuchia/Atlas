@@ -13,6 +13,7 @@ const isle_of_man = new Country ({
 	abbreviation: 'IM',
 	flag: '🇮🇲',
 	territories: [],
+	timezones: [],
 });
 
 export default isle_of_man;

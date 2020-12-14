@@ -13,6 +13,7 @@ const indonesia = new Country ({
 	abbreviation: 'ID',
 	flag: '🇮🇩',
 	territories: [],
+	timezones: [],
 });
 
 export default indonesia;

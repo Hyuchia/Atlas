@@ -13,6 +13,7 @@ const denmark = new Country ({
 	abbreviation: 'DK',
 	flag: '🇩🇰',
 	territories: [],
+	timezones: [],
 });
 
 export default denmark;

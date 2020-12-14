@@ -13,6 +13,7 @@ const bahamas = new Country ({
 	abbreviation: 'BS',
 	flag: '🇧🇸',
 	territories: [],
+	timezones: [],
 });
 
 export default bahamas;

@@ -13,6 +13,7 @@ const lesotho = new Country ({
 	abbreviation: 'LS',
 	flag: '🇱🇸',
 	territories: [],
+	timezones: [],
 });
 
 export default lesotho;

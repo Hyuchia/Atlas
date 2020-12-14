@@ -13,6 +13,7 @@ const kiribati = new Country ({
 	abbreviation: 'KI',
 	flag: '🇰🇮',
 	territories: [],
+	timezones: [],
 });
 
 export default kiribati;

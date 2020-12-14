@@ -13,6 +13,7 @@ const turkmenistan = new Country ({
 	abbreviation: 'TM',
 	flag: '🇹🇲',
 	territories: [],
+	timezones: [],
 });
 
 export default turkmenistan;

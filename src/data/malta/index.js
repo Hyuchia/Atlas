@@ -13,6 +13,7 @@ const malta = new Country ({
 	abbreviation: 'MT',
 	flag: '🇲🇹',
 	territories: [],
+	timezones: [],
 });
 
 export default malta;

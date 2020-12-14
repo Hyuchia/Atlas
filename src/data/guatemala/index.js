@@ -13,6 +13,7 @@ const guatemala = new Country ({
 	abbreviation: 'GT',
 	flag: '🇬🇹',
 	territories: [],
+	timezones: [],
 });
 
 export default guatemala;

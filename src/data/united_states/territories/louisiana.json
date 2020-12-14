@@ -3,6 +3,14 @@
     "abbreviation": "LA",
 	"type": "State",
 	"capital": "Baton Rouge",
+	"timezones": [
+		{
+			"name": "Central Time Zone",
+			"abbreviation": "CST",
+			"iana": "America/Chicago",
+			"utc": -6
+		}
+	],
     "cities": [
         "Abbeville",
         "Abita Springs",

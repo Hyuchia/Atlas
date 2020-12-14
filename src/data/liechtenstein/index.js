@@ -13,6 +13,7 @@ const liechtenstein = new Country ({
 	abbreviation: 'LI',
 	flag: '🇱🇮',
 	territories: [],
+	timezones: [],
 });
 
 export default liechtenstein;

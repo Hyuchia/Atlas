@@ -3,6 +3,14 @@
     "abbreviation": "AZ",
 	"type": "State",
 	"capital": "Phoenix",
+	"timezones": [
+		{
+			"name": "Mountain Time Zone",
+			"abbreviation": "MST",
+			"iana": "America/Denver",
+			"utc": -7
+		}
+	],
     "cities": [
 		"Apache Junction",
 		"Avondale",

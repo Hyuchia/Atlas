@@ -13,6 +13,7 @@ const slovakia = new Country ({
 	abbreviation: 'SK',
 	flag: '🇸🇰',
 	territories: [],
+	timezones: [],
 });
 
 export default slovakia;

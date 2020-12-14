@@ -13,6 +13,7 @@ const montserrat = new Country ({
 	abbreviation: 'MS',
 	flag: '🇲🇸',
 	territories: [],
+	timezones: [],
 });
 
 export default montserrat;

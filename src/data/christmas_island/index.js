@@ -13,6 +13,7 @@ const christmas_island = new Country ({
 	abbreviation: 'CX',
 	flag: '🇨🇽',
 	territories: [],
+	timezones: [],
 });
 
 export default christmas_island;

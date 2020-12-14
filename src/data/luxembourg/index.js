@@ -13,6 +13,7 @@ const luxembourg = new Country ({
 	abbreviation: 'LU',
 	flag: '🇱🇺',
 	territories: [],
+	timezones: [],
 });
 
 export default luxembourg;

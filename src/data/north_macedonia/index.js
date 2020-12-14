@@ -13,6 +13,7 @@ const north_macedonia = new Country ({
 	abbreviation: 'MK',
 	flag: '🇲🇰',
 	territories: [],
+	timezones: [],
 });
 
 export default north_macedonia;

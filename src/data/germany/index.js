@@ -13,6 +13,7 @@ const germany = new Country ({
 	abbreviation: 'DE',
 	flag: '🇩🇪',
 	territories: [],
+	timezones: [],
 });
 
 export default germany;

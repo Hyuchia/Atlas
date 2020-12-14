@@ -13,6 +13,7 @@ const nicaragua = new Country ({
 	abbreviation: 'NI',
 	flag: '🇳🇮',
 	territories: [],
+	timezones: [],
 });
 
 export default nicaragua;

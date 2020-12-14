@@ -13,6 +13,7 @@ const zimbabwe = new Country ({
 	abbreviation: 'ZW',
 	flag: '🇿🇼',
 	territories: [],
+	timezones: [],
 });
 
 export default zimbabwe;

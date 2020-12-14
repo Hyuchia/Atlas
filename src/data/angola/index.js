@@ -13,6 +13,7 @@ const angola = new Country ({
 	abbreviation: 'AO',
 	flag: '🇦🇴',
 	territories: [],
+	timezones: [],
 });
 
 export default angola;

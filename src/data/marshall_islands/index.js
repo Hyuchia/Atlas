@@ -13,6 +13,7 @@ const marshall_islands = new Country ({
 	abbreviation: 'MH',
 	flag: '🇲🇭',
 	territories: [],
+	timezones: [],
 });
 
 export default marshall_islands;

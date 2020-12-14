@@ -13,6 +13,7 @@ const curacao = new Country ({
 	abbreviation: 'CW',
 	flag: '🇨🇼',
 	territories: [],
+	timezones: [],
 });
 
 export default curacao;

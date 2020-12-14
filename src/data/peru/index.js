@@ -13,6 +13,7 @@ const peru = new Country ({
 	abbreviation: 'PE',
 	flag: '🇵🇪',
 	territories: [],
+	timezones: [],
 });
 
 export default peru;

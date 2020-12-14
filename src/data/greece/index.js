@@ -13,6 +13,7 @@ const greece = new Country ({
 	abbreviation: 'GR',
 	flag: '🇬🇷',
 	territories: [],
+	timezones: [],
 });
 
 export default greece;

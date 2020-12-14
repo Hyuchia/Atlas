@@ -13,6 +13,7 @@ const guinea_bissau = new Country ({
 	abbreviation: 'GW',
 	flag: '🇬🇼',
 	territories: [],
+	timezones: [],
 });
 
 export default guinea_bissau;

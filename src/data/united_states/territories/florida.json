@@ -3,6 +3,20 @@
     "abbreviation": "FL",
 	"type": "State",
 	"capital": "Tallahassee",
+	"timezones": [
+		{
+			"name": "Eastern Time Zone",
+			"abbreviation": "EST",
+			"iana": "America/New_York",
+			"utc": -5
+		},
+		{
+			"name": "Central Time Zone",
+			"abbreviation": "CST",
+			"iana": "America/Chicago",
+			"utc": -6
+		}
+	],
     "cities": [
         "Alachua",
         "Alford",

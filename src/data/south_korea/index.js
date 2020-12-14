@@ -13,6 +13,7 @@ const south_korea = new Country ({
 	abbreviation: 'KR',
 	flag: '🇰🇷',
 	territories: [],
+	timezones: [],
 });
 
 export default south_korea;

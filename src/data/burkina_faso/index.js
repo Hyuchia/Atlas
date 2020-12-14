@@ -13,6 +13,7 @@ const burkina_faso = new Country ({
 	abbreviation: 'BF',
 	flag: '🇧🇫',
 	territories: [],
+	timezones: [],
 });
 
 export default burkina_faso;

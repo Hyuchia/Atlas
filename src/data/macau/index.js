@@ -13,6 +13,7 @@ const macau = new Country ({
 	abbreviation: 'MO',
 	flag: '🇲🇴',
 	territories: [],
+	timezones: [],
 });
 
 export default macau;

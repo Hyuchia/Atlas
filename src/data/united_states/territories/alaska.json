@@ -2,7 +2,51 @@
     "name": "Alaska",
     "abbreviation": "AK",
     "type": "State",
-    "capital": "Juneau",
+	"capital": "Juneau",
+	"timezones": [
+		{
+			"name": "Alaska Time Zone",
+			"abbreviation": "AKST",
+			"iana": "America/Anchorage",
+			"utc": -9
+		},
+		{
+			"name": "Alaska Time Zone",
+			"abbreviation": "AKST",
+			"iana": "America/Juneau",
+			"utc": -9
+		},
+		{
+			"name": "Alaska Time Zone",
+			"abbreviation": "AKST",
+			"iana": "America/Sitka",
+			"utc": -9
+		},
+		{
+			"name": "Alaska Time Zone",
+			"abbreviation": "AKST",
+			"iana": "America/Yakutat",
+			"utc": -9
+		},
+		{
+			"name": "Alaska Time Zone",
+			"abbreviation": "AKST",
+			"iana": "America/Nome",
+			"utc": -9
+		},
+		{
+			"name": "Alaska Time Zone",
+			"abbreviation": "AKST",
+			"iana": "America/Adak",
+			"utc": -10
+		},
+		{
+			"name": "Alaska Time Zone",
+			"abbreviation": "AKST",
+			"iana": "America/Metlakatla",
+			"utc": -9
+		}
+	],
     "cities": [
         "Adak",
         "Akhiok",

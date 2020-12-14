@@ -13,6 +13,7 @@ const slovenia = new Country ({
 	abbreviation: 'SI',
 	flag: '🇸🇮',
 	territories: [],
+	timezones: [],
 });
 
 export default slovenia;

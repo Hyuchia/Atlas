@@ -13,6 +13,7 @@ const dominican_republic = new Country ({
 	abbreviation: 'DO',
 	flag: '🇩🇴',
 	territories: [],
+	timezones: [],
 });
 
 export default dominican_republic;

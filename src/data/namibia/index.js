@@ -13,6 +13,7 @@ const namibia = new Country ({
 	abbreviation: 'NA',
 	flag: '🇳🇦',
 	territories: [],
+	timezones: [],
 });
 
 export default namibia;

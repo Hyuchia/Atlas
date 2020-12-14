@@ -3,6 +3,14 @@
     "abbreviation": "MN",
 	"type": "State",
 	"capital": "St. Paul",
+	"timezones": [
+		{
+			"name": "Central Time Zone",
+			"abbreviation": "CST",
+			"iana": "America/Chicago",
+			"utc": -6
+		}
+	],
     "cities": [
 		"Ada",
 		"Adams",

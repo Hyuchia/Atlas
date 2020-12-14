@@ -13,6 +13,7 @@ const moldova = new Country ({
 	abbreviation: 'MD',
 	flag: '🇲🇩',
 	territories: [],
+	timezones: [],
 });
 
 export default moldova;

@@ -3,6 +3,14 @@
     "abbreviation": "AS",
 	"type": "Unincorporated and Unorganized Territory",
 	"capital": "Apia",
+	"timezones": [
+		{
+			"name": "Samoa Time Zone",
+			"abbreviation": "SSST",
+			"iana": "Pacific/Pago_Pago",
+			"utc": -11
+		}
+	],
     "cities": [
 		"Apia",
 		"Afega",

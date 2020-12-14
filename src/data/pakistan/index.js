@@ -13,6 +13,7 @@ const pakistan = new Country ({
 	abbreviation: 'PK',
 	flag: '🇵🇰',
 	territories: [],
+	timezones: [],
 });
 
 export default pakistan;

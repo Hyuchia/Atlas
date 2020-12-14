@@ -13,6 +13,7 @@ const antarctica = new Country ({
 	abbreviation: 'AQ',
 	flag: '🇦🇶',
 	territories: [],
+	timezones: [],
 });
 
 export default antarctica;

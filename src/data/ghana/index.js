@@ -13,6 +13,7 @@ const ghana = new Country ({
 	abbreviation: 'GH',
 	flag: '🇬🇭',
 	territories: [],
+	timezones: [],
 });
 
 export default ghana;

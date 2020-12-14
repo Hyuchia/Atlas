@@ -13,6 +13,7 @@ const jersey = new Country ({
 	abbreviation: 'JE',
 	flag: '🇯🇪',
 	territories: [],
+	timezones: [],
 });
 
 export default jersey;

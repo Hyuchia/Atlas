@@ -13,6 +13,7 @@ const aruba = new Country ({
 	abbreviation: 'AW',
 	flag: '🇦🇼',
 	territories: [],
+	timezones: [],
 });
 
 export default aruba;

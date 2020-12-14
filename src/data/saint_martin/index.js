@@ -13,6 +13,7 @@ const saint_martin = new Country ({
 	abbreviation: 'MF',
 	flag: '🇲🇫',
 	territories: [],
+	timezones: [],
 });
 
 export default saint_martin;

@@ -13,6 +13,7 @@ const guyana = new Country ({
 	abbreviation: 'GY',
 	flag: '🇬🇾',
 	territories: [],
+	timezones: [],
 });
 
 export default guyana;

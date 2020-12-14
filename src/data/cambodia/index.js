@@ -13,6 +13,7 @@ const cambodia = new Country ({
 	abbreviation: 'KH',
 	flag: '🇰🇭',
 	territories: [],
+	timezones: [],
 });
 
 export default cambodia;

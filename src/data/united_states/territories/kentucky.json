@@ -3,6 +3,32 @@
     "abbreviation": "KY",
 	"type": "State",
 	"capital": "Frankfort",
+	"timezones": [
+		{
+			"name": "Eastern Time Zone",
+			"abbreviation": "EST",
+			"iana": "America/New_York",
+			"utc": -5
+		},
+		{
+			"name": "Eastern Time Zone",
+			"abbreviation": "EST",
+			"iana": "America/Kentucky/Louisville",
+			"utc": -5
+		},
+		{
+			"name": "Eastern Time Zone",
+			"abbreviation": "EST",
+			"iana": "America/Kentucky/Monticello",
+			"utc": -5
+		},
+		{
+			"name": "Central Time Zone",
+			"abbreviation": "CST",
+			"iana": "America/Chicago",
+			"utc": -6
+		}
+	],
     "cities": [
         "Adairville",
         "Albany",

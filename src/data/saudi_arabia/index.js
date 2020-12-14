@@ -13,6 +13,7 @@ const saudi_arabia = new Country ({
 	abbreviation: 'SA',
 	flag: '🇸🇦',
 	territories: [],
+	timezones: [],
 });
 
 export default saudi_arabia;

@@ -102,6 +102,10 @@
 									<p><b>Abbreviation:</b> ${territory.abbreviation}</p>
 									<p><b>Type:</b> ${territory.type}</p>
 									<p><b>Capital:</b> ${territory.capital}</p>
+									<p><b>Timezones:</b></p>
+									<ul>
+										${territory.timezones.map (t => `<li>${t.iana} (UTC${t.utc > 0 ? '+' : ''}${t.utc})</li>`).join ('')}
+									</ul>
 									<p><b>Cities:</b></p>
 									<ul>
 										${territory.cities.map (c => `<li>${c}</li>`).join ('')}

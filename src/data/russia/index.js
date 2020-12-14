@@ -13,6 +13,7 @@ const russia = new Country ({
 	abbreviation: 'RU',
 	flag: '🇷🇺',
 	territories: [],
+	timezones: [],
 });
 
 export default russia;

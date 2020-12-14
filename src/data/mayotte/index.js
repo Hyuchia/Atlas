@@ -13,6 +13,7 @@ const mayotte = new Country ({
 	abbreviation: 'YT',
 	flag: '🇾🇹',
 	territories: [],
+	timezones: [],
 });
 
 export default mayotte;

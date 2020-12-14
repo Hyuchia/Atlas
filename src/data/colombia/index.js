@@ -13,6 +13,7 @@ const colombia = new Country ({
 	abbreviation: 'CO',
 	flag: '🇨🇴',
 	territories: [],
+	timezones: [],
 });
 
 export default colombia;

@@ -13,6 +13,7 @@ const maldives = new Country ({
 	abbreviation: 'MV',
 	flag: '🇲🇻',
 	territories: [],
+	timezones: [],
 });
 
 export default maldives;

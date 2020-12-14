@@ -13,6 +13,7 @@ const tuvalu = new Country ({
 	abbreviation: 'TV',
 	flag: '🇹🇻',
 	territories: [],
+	timezones: [],
 });
 
 export default tuvalu;

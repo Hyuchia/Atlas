@@ -13,6 +13,7 @@ const uzbekistan = new Country ({
 	abbreviation: 'UZ',
 	flag: '🇺🇿',
 	territories: [],
+	timezones: [],
 });
 
 export default uzbekistan;

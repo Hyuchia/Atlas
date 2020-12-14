@@ -3,6 +3,14 @@
     "abbreviation": "MA",
 	"type": "State",
 	"capital": "Boston",
+	"timezones": [
+		{
+			"name": "Eastern Time Zone",
+			"abbreviation": "EST",
+			"iana": "America/New_York",
+			"utc": -5
+		}
+	],
     "cities": [
         "Abington",
         "Acton",

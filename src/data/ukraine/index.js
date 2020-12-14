@@ -13,6 +13,7 @@ const ukraine = new Country ({
 	abbreviation: 'UA',
 	flag: '🇺🇦',
 	territories: [],
+	timezones: [],
 });
 
 export default ukraine;

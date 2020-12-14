@@ -13,6 +13,7 @@ const pitcairn_islands = new Country ({
 	abbreviation: 'PN',
 	flag: '🇵🇳',
 	territories: [],
+	timezones: [],
 });
 
 export default pitcairn_islands;

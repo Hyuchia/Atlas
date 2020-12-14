@@ -13,6 +13,7 @@ const vatican_city = new Country ({
 	abbreviation: 'VA',
 	flag: '🇻🇦',
 	territories: [],
+	timezones: [],
 });
 
 export default vatican_city;

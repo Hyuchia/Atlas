@@ -13,6 +13,7 @@ const chile = new Country ({
 	abbreviation: 'CL',
 	flag: '🇨🇱',
 	territories: [],
+	timezones: [],
 });
 
 export default chile;

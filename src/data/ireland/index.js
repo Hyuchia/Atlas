@@ -13,6 +13,7 @@ const ireland = new Country ({
 	abbreviation: 'IE',
 	flag: '🇮🇪',
 	territories: [],
+	timezones: [],
 });
 
 export default ireland;

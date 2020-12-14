@@ -13,6 +13,7 @@ const albania = new Country ({
 	abbreviation: 'AL',
 	flag: '🇦🇱',
 	territories: [],
+	timezones: [],
 });
 
 export default albania;

@@ -3,6 +3,14 @@
     "abbreviation":"GU",
 	"type": "Unincorporated and Organized Territory",
 	"capital": "Hagåtña",
+	"timezones": [
+		{
+			"name": "Chamorro Time Zone",
+			"abbreviation": "ChST",
+			"iana": "Pacific/Guam",
+			"utc": 10
+		}
+	],
     "cities": [
         "Agana Heights",
         "Agat",

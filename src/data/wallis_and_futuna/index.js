@@ -13,6 +13,7 @@ const wallis_and_futuna = new Country ({
 	abbreviation: 'WF',
 	flag: '🇼🇫',
 	territories: [],
+	timezones: [],
 });
 
 export default wallis_and_futuna;

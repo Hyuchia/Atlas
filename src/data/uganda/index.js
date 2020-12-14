@@ -13,6 +13,7 @@ const uganda = new Country ({
 	abbreviation: 'UG',
 	flag: '🇺🇬',
 	territories: [],
+	timezones: [],
 });
 
 export default uganda;

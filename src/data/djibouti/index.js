@@ -13,6 +13,7 @@ const djibouti = new Country ({
 	abbreviation: 'DJ',
 	flag: '🇩🇯',
 	territories: [],
+	timezones: [],
 });
 
 export default djibouti;

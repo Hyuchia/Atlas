@@ -13,6 +13,7 @@ const heard_island_and_mcdonald_islands = new Country ({
 	abbreviation: 'HM',
 	flag: '🇭🇲',
 	territories: [],
+	timezones: [],
 });
 
 export default heard_island_and_mcdonald_islands;

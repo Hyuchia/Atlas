@@ -13,6 +13,7 @@ const suriname = new Country ({
 	abbreviation: 'SR',
 	flag: '🇸🇷',
 	territories: [],
+	timezones: [],
 });
 
 export default suriname;

@@ -13,6 +13,7 @@ const comoros = new Country ({
 	abbreviation: 'KM',
 	flag: '🇰🇲',
 	territories: [],
+	timezones: [],
 });
 
 export default comoros;
