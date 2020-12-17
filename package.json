@@ -1,13 +1,13 @@
 {
   "name": "@blac-sheep/atlas",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A simple library containing information about countries and their territories.",
   "repository": {
     "type": "git",
     "url": "https://github.com/BlacSheepLLC/Atlas.git"
   },
   "main": "dist/atlas.min.js",
-  "module": "src/index.js",
+  "module": "dist/atlas.min.js",
   "author": "Blac-Sheep LLC",
   "bugs": {
     "url": "https://github.com/BlacSheepLLC/Atlas/issues"

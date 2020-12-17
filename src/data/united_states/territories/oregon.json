@@ -14,7 +14,7 @@
 			"name": "Mountain Time Zone",
 			"abbreviation": "MST",
 			"iana": "America/Boise",
-			"utc": -8
+			"utc": -7
 		}
 	],
     "cities": [
