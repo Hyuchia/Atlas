@@ -7,7 +7,7 @@
 		exports["atlas"] = factory();
 	else
 		root["Atlas"] = factory();
-})(self, function() {
+})(this, function() {
 return /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 

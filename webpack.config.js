@@ -18,7 +18,8 @@ module.exports = env => {
         amd: 'atlas',
         commonjs: 'atlas',
       },
-      libraryTarget: 'umd',
+	  libraryTarget: 'umd',
+	  globalObject: 'this'
     },
     devtool: 'source-map',
     optimization: {
