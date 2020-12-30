@@ -36,7 +36,7 @@ const united_states = new Country ({
 		{
 			name: 'Hawaii Time Zone',
 			abbreviation: 'HST',
-			iana: 'America/Honolulu',
+			iana: 'Pacific/Honolulu',
 			utc: -10
 		},
 		{
